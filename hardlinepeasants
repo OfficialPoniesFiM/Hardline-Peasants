@@ -1,3 +1,4 @@
 #Main script, will load everything 
 
 import pygame, sys
+import tqdm
